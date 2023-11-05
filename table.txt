@@ -1,0 +1,7 @@
+empId username salary place team
+1     John     50000  New York  Sales
+2     Sarah    60000  Los Angeles  Marketing
+3     Michael  75000  Chicago  Engineering
+4     Emily    55000  San Francisco  Finance
+5     David    70000  Boston  Sales
+
